@@ -1,0 +1,86 @@
+{
+  "NEXT": "next",
+  "SEND": "kirim",
+  "IDLE": {
+    "HEADING": "Create Your Own Stock",
+    "DESCRIPTION": "In this section, you can make your own Stock Certificate for your company.",
+    "BUTTON": "Start"
+  },
+  "OVERVIEW": {
+    "PARAGRAPH1": "In the past, people used Stock Certificate as sign of his/her company ownership.",
+    "PARAGRAPH2": "Nowadays, It did not used anymore as sign of company ownership. But account on behalf of their stock.",
+    "PARAGRAPH3": "Let's create your own Stock Certificate now! Experience the world of stocks by owning your own certificate!",
+    "BUTTON": "Create Stock"
+  },
+  "COMPANY": {
+    "TITLE": "Create a Company",
+    "DESCRIPTION1": "Please make your company.",
+    "DESCRIPTION2": "You can choose a Name, Business Sector, and Logo for your company. You can also affix a signature as a sign of Stock Certificate ownership.",
+    "LABEL1": "Company Name",
+    "LABEL2": "Signature",
+    "LABEL3": "Business Sector",
+    "LABEL4": "Company Logo",
+    "LABEL5": "Company Logo",
+    "SECTOR1": "Primary Consumer Goods",
+    "SECTOR2": "Real Estate and Property",
+    "SECTOR3": "Infrastructure",
+    "SECTOR4": "Energy",
+    "SECTOR5": "Non-primary Consumer Goods",
+    "SECTOR6": "Raw Material",
+    "SECTOR7": "Industry",
+    "SECTOR8": "Healthcare",
+    "SECTOR9": "Finance",
+    "SECTOR10": "Technology"
+  },
+  "PERSONAL": {
+    "TITLE": "Stock Information",
+    "DESCRIPTION1": "Please enter your Stock Information.",
+    "DESCRIPTION2": "Enter your Name and your Stock Value.",
+    "LABEL1": "Name",
+    "LABEL2": "Stock Value (IDR)",
+    "LABEL3": "Stock Owner's Name",
+    "LABEL4": "Stock Value (IDR)"
+  },
+  "CREATE": {
+    "TITLE": "Create Stock",
+    "LABEL1": "Choose Font",
+    "LABEL2": "Choose Background",
+    "LABEL3": "Choose Border",
+    "LABEL4": "Background Color",
+    "LABEL5": "Border Color"
+  },
+  "YOUR": {
+    "TITLE": "Your Stock",
+    "DESCRIPTION": "Congratulations! Your creative Stock Certificate has been successfully created! Print and download to immortalize your Certificate of Stock",
+    "EDIT": "Edit",
+    "PROCESS": "Process"
+  },
+  "FINAL": {
+    "EMAIL": "Please enter your e-mail address. The creative Stock Certificate will be sent to your e-mail.",
+    "EMAIL_PLACEHOLDER": "ENTER YOUR EMAIL",
+    "QR": "Please scane QR code below to download your Stock Certificate.",
+    "PRINT_TITLE": "PRINT",
+    "PRINT": "Visit our Gift Shop and redeem this following print code to get your printed Certificate`!",
+    "LINE1": "Press to skip or continue",
+    "LINE2": "Press to continue",
+    "WAIT": "Please wait a moment...",
+    "SUCCESS": "Sent Succesfully",
+    "FAILED": "Failed to Send"
+  },
+  "CONFIRMATION": {
+    "TITLE": "Confirmation",
+    "DESCRIPTION1": "Please check your data below.",
+    "DESCRIPTION2": "Make sure all your data is correct.",
+    "QUESTION": "Is data correct?",
+    "SURE": "ARE YOU SURE WANT TO CONTINUE?",
+    "EDIT": "Are you sure want to edit your stock?",
+    "YES": "Yes",
+    "NO": "No"
+  },
+  "CLOSING": {
+    "TITLE": "Share Your Experience",
+    "PARAGRAPH1": "Share and tell your friends through social media to have unforgettable experiences by having Stock Certificate!",
+    "PARAGRAPH2": "Don't forget to follow our social media to get the latest Stock Market News in Indonesia.",
+    "THANK": "Thank You"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "NEXT": "selanjutnya",
+  "SEND": "kirim",
+  "IDLE": {
+    "HEADING": "Kreasikan Saham Anda",
+    "DESCRIPTION": "Pada bagian ini Anda dapat berkreasi membuat kertas saham dan membuat perusahaan Anda sendiri.",
+    "BUTTON": "Mulai"
+  },
+  "OVERVIEW": {
+    "PARAGRAPH1": "Dahulu, saham berbentuk selembar kertas yang didalamnya menerangkan tentang kepemilikan saham tersebut.",
+    "PARAGRAPH2": "Namun saat ini bentuk kepemilikan saham tidak lagi berupa kertas saham yang bertuliskan nama pemiliknya. Melainkan berupa account atas nama pemilik saham.",
+    "PARAGRAPH3": "Ayo berkreasi dengan saham Anda. Dapatkan pengalaman masuk ke dalam dunia saham.",
+    "BUTTON": "Buat Saham"
+  },
+  "COMPANY": {
+    "TITLE": "Buat Perusahaan",
+    "DESCRIPTION1": "Silahkan buat perusahaan Anda.",
+    "DESCRIPTION2": "Anda dapat memilih Nama perusahaan, Sektor perusahaan dan memilih Logo untuk perusahaan Anda.",
+    "LABEL1": "Nama Perusahaan",
+    "LABEL2": "Tanda Tangan",
+    "LABEL3": "Sektor",
+    "LABEL4": "Pilih Logo Perusahaan",
+    "LABEL5": "Logo Perusahaan",
+    "SECTOR1": "Barang Konsumen Primer",
+    "SECTOR2": "Real Estate dan Properti",
+    "SECTOR3": "Infrastruktur",
+    "SECTOR4": "Energi",
+    "SECTOR5": "Barang Konsumen Non-Primer",
+    "SECTOR6": "Barang Baku",
+    "SECTOR7": "Perindustrian",
+    "SECTOR8": "Kesehatan",
+    "SECTOR9": "Keuangan",
+    "SECTOR10": "Teknologi"
+  },
+  "PERSONAL": {
+    "TITLE": "Informasi Saham",
+    "DESCRIPTION1": "Silahkan isi informasi saham Anda.",
+    "DESCRIPTION2": "Masukan Nama dan Nilai saham.",
+    "LABEL1": "Nama",
+    "LABEL2": "Nilai Saham",
+    "LABEL3": "Nama Pemilik Saham",
+    "LABEL4": "Nilai Saham (Rp.)"
+  },
+  "CREATE": {
+    "TITLE": "Kreasi Saham",
+    "LABEL1": "Pilih Font",
+    "LABEL2": "Pilih Latar",
+    "LABEL3": "Pilih Border",
+    "LABEL4": "Warna Latar",
+    "LABEL5": "Warna Border"
+  },
+  "YOUR": {
+    "TITLE": "Saham Anda",
+    "DESCRIPTION": "Selamat! Anda telah berhasil membuat kreasi saham Anda. Ayo cetak kertas saham, unduh dan bagikan di media sosial Anda!",
+    "EDIT": "Edit Ulang",
+    "PROCESS": "Proses"
+  },
+  "FINAL": {
+    "EMAIL": "Silahkan masukan email Anda, hasil kreasi saham Anda akan dikirimkan melalui email.",
+    "EMAIL_PLACEHOLDER": "MASUKKAN EMAIL",
+    "QR": "Silahkan scan QR Code untuk mengunduh hasil kreasi saham Anda.",
+    "PRINT_TITLE": "CETAK",
+    "PRINT": "Kunjungi Gift Shop dan tukarkan kode berikut untuk mendapatkan cetak kreasi Sertifikat Saham Anda!",
+    "LINE1": "Tekan  untuk melewati atau melanjutkan",
+    "LINE2": "Tekan untuk melanjutkan",
+    "WAIT": "Mohon tunggu sebentar...",
+    "SUCCESS": "Berhasil Terkirim",
+    "FAILED": "Gagal Terkirim"
+  },
+  "CONFIRMATION": {
+    "TITLE": "Konfirmasi",
+    "DESCRIPTION1": "Silahkan periksa kembali data Anda.",
+    "DESCRIPTION2": "Pastikan seluruh data telah sesuai.",
+    "QUESTION": "Apakah data Anda sudah sesuai?",
+    "SURE": "APAKAH ANDA YAKIN UNTUK MELANJUTKAN?",
+    "EDIT": "Apakah anda ingin mengedit ulang?",
+    "YES": "Ya",
+    "NO": "Tidak"
+  },
+  "CLOSING": {
+    "TITLE": "Bagikan Pengalaman Anda",
+    "PARAGRAPH1": "Ayo bagikan dan ajak teman-teman Anda melalui social media untuk merasakan pengalaman tak terlupakan memiliki Sertifikat Saham!",
+    "PARAGRAPH2": "Jangan lupa terus ikuti akun sosial media kami untuk mendapatkan informasi terbaru perkembangan saham di Indonesia.",
+    "THANK": "Terima Kasih"
+  }
+}
